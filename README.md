@@ -11,3 +11,4 @@ We propose the related models as below:
 | bart-large | XSum  | No     | https://huggingface.co/KenLee/bart_large_xsum_sd |
 | bart-large | Xsum  | Yes    | https://huggingface.co/KenLee/bart_large_xsum_sd_pa |
 
+Any question or problem could be sent to issue or email ~
